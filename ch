@@ -46,6 +46,9 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?RONIROX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND W
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8?RONIROX
 
+#EXTINF:-1,Click
+https://www.googleapis.com/drive/v3/files/1wK6vzfEJxunzMMutWwssugmcYyQXozLI?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+
 
 
 
