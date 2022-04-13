@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-id="SBT - TV Serra Dourada - (GO)" tvg-logo="" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w638526601_b350000.m3u8?RONIROX
 #EXTINF:-1 tvg-id="SBT - TV Serra Dourada - (GO)" tvg-logo="" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
@@ -43,11 +45,6 @@ http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND X
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?RONIROX
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND W
-http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8?RONIROX
-
-#EXTINF:-1,Click
-https://www.googleapis.com/drive/v3/files/1wK6vzfEJxunzMMutWwssugmcYyQXozLI?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
 
 
 
