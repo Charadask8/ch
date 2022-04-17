@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="SBT - TV Serra Dourada - (GO)" tvg-logo="" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w638526601_b350000.m3u8?RONIROX
 #EXTINF:-1 tvg-id="SBT - TV Serra Dourada - (GO)" tvg-logo="" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
