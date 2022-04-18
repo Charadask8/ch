@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,CANAIS DE TV
+#EXTINF:-1, (DISPONIBILIZADO PARA LAZER E NAO COMERCIO!)
+#EXTINF:-1,(RONI ROX) 
 #EXTINF:-1 tvg-id="SBT - TV Serra Dourada - (GO)" tvg-logo="" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w638526601_b350000.m3u8?RONIROX
 #EXTINF:-1 tvg-id="SBT - TV Serra Dourada - (GO)" tvg-logo="" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
@@ -11,8 +14,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w286398353.m3u8?RONIROX
 #EXTINF:-1 tvg-id="TV CATVE" tvg-logo="" group-title="TV ABERTA", TV CATVE
 https://alanza.iptv2022.com/CATVE/tracks-v1a1/mono.m3u8?RONIROX
-#EXTINF:-1 tvg-id="All Sports" tvg-logo="" group-title="TV ABERTA", All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?RONIROX
 #EXTINF:-1  tvg-logo="Ronex" group-title="Canais | ABERTO",Tv-loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w2129298556.m3u8?RONEX
 #EXTINF:-1  tvg-logo="Ronex" group-title="Canais | ABERTO",Retro Cartoon
