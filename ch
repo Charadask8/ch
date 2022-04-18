@@ -44,8 +44,8 @@ http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND X
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?RONIROX
-
-
+#EXTINF:-1 tvg-id="tvnaza" tvg-logo="" group-title="CANAIS INFANTIS", tv naza
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1270690661.m3u8?RONIROX
 
 
 
