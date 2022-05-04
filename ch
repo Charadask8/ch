@@ -47,6 +47,8 @@ https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?RONIROX
 #EXTINF:-1 tvg-id="tvnaza" tvg-logo="" group-title="CANAIS INFANTIS", tv naza
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1270690661.m3u8?RONIROX
+#EXTINF:0,CANAL ITV na faixa(Filmes e Séries)
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
 
 
 
